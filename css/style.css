@@ -24,11 +24,7 @@ body {
 
 
 header main {
-  font-family: 'Courgette', cursive; 
-  display: grid;
-  align-items: center;
-  justify-items: center;
-  height: 100vh;
+  font-family: 'Courgette', cursive;   
   color: #4F4F4F;
 }
 
@@ -85,8 +81,7 @@ span {
 main {
   display: grid;
   align-items: center;
-  justify-items: center;
-  height: 100vh;
+  justify-items: center; 
   color: #4F4F4F;
 }
 
