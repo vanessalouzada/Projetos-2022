@@ -149,9 +149,8 @@ main {
 
 @media (max-width: 600px) {
   body {
-    background-attachment: initial;
-    background-size: contain;
-    background-color: #f0e6da;
+   background-attachment: fixed;
+   background-size: cover;
   }
   .git {
     padding: 25px 0px 0px 120px;
